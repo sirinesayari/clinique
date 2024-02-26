@@ -14,6 +14,8 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Clinique {
+
+    //commentaire 4twin3
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Long idClinique;
